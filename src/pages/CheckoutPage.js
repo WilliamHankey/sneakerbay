@@ -1,6 +1,6 @@
 // CheckoutPage.js
 import React from 'react';
-import { Container, Grid, Typography, Paper, TextField, Button, Box } from '@mui/material';
+import { Container, Grid, Typography, Paper, TextField, Button} from '@mui/material';
 
 function CheckoutPage() {
   return (

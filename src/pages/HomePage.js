@@ -1,6 +1,6 @@
 // HomePage.js
 import React from 'react';
-import { Container, Grid, Box, Typography, Paper, Button } from '@mui/material';
+import { Container, Grid, Typography, Paper, Button } from '@mui/material';
 
 function HomePage() {
   return (
